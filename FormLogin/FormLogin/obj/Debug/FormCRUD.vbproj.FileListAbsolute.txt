@@ -1,0 +1,4 @@
+F:\Universitas Siber Asia\Pemrograman Visual\FormCRUD\FormLogin\bin\Debug\FormCRUD.exe.config
+F:\Universitas Siber Asia\Pemrograman Visual\FormCRUD\FormLogin\obj\Debug\FormCRUD.exe
+F:\Universitas Siber Asia\Pemrograman Visual\FormCRUD\FormLogin\obj\Debug\FormCRUD.xml
+F:\Universitas Siber Asia\Pemrograman Visual\FormCRUD\FormLogin\obj\Debug\FormCRUD.pdb
