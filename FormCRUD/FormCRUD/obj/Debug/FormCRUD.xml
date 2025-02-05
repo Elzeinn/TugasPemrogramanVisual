@@ -22,5 +22,30 @@ FormCRUD
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:FormCRUD.My.Resources.Resources.bg_green">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FormCRUD.My.Resources.Resources.bg_green2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FormCRUD.My.Resources.Resources.hutanku">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FormCRUD.My.Resources.Resources.hutanku2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FormCRUD.My.Resources.Resources.hutanku21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 </members>
 </doc>
